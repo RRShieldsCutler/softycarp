@@ -1,11 +1,7 @@
 This beast is the least.
 And the instructions were faulty.
 HOW I AM CHANGING IT. HOW.
-AGAIN
-
-<<<<<<< HEAD
+AGAINHEAD
 AND NOW IT IS DIFFERENT
 
-=======
 ONCE AGAIN.
->>>>>>> iss53
