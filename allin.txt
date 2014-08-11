@@ -3,3 +3,8 @@ SO... It appears that this is a potential way for me to destroy your system.
 I won't do this. But it could go poorly if someone we don't know can run a program on your computer.
 
 <>:
+
+Used to joke about creating a automatic "restart computer" script into people's startup folder.
+
+Good for a few chuckles.
+
